@@ -265,11 +265,33 @@ plt.axis("off")
 ```
  
 # Output:
-- **i)** Read and Display an Image.  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+# Display the image using Matplotlib
+<img width="342" height="533" alt="Screenshot 2026-02-02 112957" src="https://github.com/user-attachments/assets/04ccb583-8ca9-4594-824d-368611385d60" />
+
+# Draw a line from top-left to bottom-right
+<img width="286" height="523" alt="Screenshot 2026-02-02 113202" src="https://github.com/user-attachments/assets/fbb92f17-a6c5-48ab-bb70-d9305604769f" />
+<img width="306" height="524" alt="Screenshot 2026-02-02 113153" src="https://github.com/user-attachments/assets/5811e6d5-6e6a-488f-a5de-ca5f103a7c43" />
+<img width="300" height="523" alt="Screenshot 2026-02-02 113306" src="https://github.com/user-attachments/assets/52166a7b-bfc0-45d2-a100-21eb8497a970" />
+<img width="288" height="516" alt="Screenshot 2026-02-02 113318" src="https://github.com/user-attachments/assets/34867898-3a85-47aa-b597-8cf446d1b5da" />
+
+# HSV Image
+<img width="294" height="507" alt="Screenshot 2026-02-02 113444" src="https://github.com/user-attachments/assets/91d88550-955f-4690-bb32-d1b0dc4edb20" />
+
+# Grayscale Image
+<img width="286" height="507" alt="Screenshot 2026-02-02 113528" src="https://github.com/user-attachments/assets/482eeec0-9565-4dd8-aa8c-01066151b329" />
+
+
+# YCrCb Image
+<img width="279" height="503" alt="Screenshot 2026-02-02 113611" src="https://github.com/user-attachments/assets/4597dcf1-001a-4c40-bc67-c4af4fd6208a" />
+<img width="349" height="522" alt="Screenshot 2026-02-02 113620" src="https://github.com/user-attachments/assets/46bb2c3c-b3cb-4d42-a5b2-2fc75de827e0" />
+<img width="485" height="528" alt="Screenshot 2026-02-02 113637" src="https://github.com/user-attachments/assets/bdad719f-4973-4af2-908d-335d9edeb5f0" />
+
+# Horizontal flip
+<img width="291" height="516" alt="Screenshot 2026-02-02 113643" src="https://github.com/user-attachments/assets/51df6ebb-38d4-4d40-96fb-ec24be08abda" />
+
+# Vertical flip
+<img width="291" height="512" alt="Screenshot 2026-02-02 113659" src="https://github.com/user-attachments/assets/e1746405-2358-46e4-a6b0-90af22bbbf93" />
 
 ## Result:
-Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
+Thus, the images were read, displayed, adjustments were made, and bitwise operations were performed successfully using the Python program.
 
