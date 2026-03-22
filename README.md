@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 ```
 ## Read the image using OpenCV 
 ```PYTHON
-img = cv2.imread('VIN.jpeg', cv2.IMREAD_COLOR)
+img = cv2.imread('dipt.jpeg', cv2.IMREAD_COLOR)
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)#
 ```PYTHON
@@ -57,7 +57,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg')
+image = cv2.imread('dipt.jpeg')
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -75,7 +75,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jepg') 
+image = cv2.imread('dipt.jepg') 
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -90,7 +90,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -108,7 +108,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -124,7 +124,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ```
 ## Original RGB Image
@@ -190,7 +190,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 image.shape
 (1536, 941, 3)
 ```
@@ -213,7 +213,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 image.shape
 (1536, 941, 3)
 ```
@@ -234,7 +234,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg')
+image = cv2.imread('dipt.jpeg')
 ```
 ## Flip the image horizontally (left-right)
 ```PYTHON
