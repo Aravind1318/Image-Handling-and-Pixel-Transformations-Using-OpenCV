@@ -269,31 +269,36 @@ plt.axis("off")
  
 # Output:
 # Display the image using Matplotlib
-<img width="342" height="533" alt="Screenshot 2026-02-02 112957" src="https://github.com/user-attachments/assets/04ccb583-8ca9-4594-824d-368611385d60" />
+<img width="346" height="644" alt="image" src="https://github.com/user-attachments/assets/d3373437-9184-47d0-a075-6bff03604d2f" />
+
 
 # Draw a line from top-left to bottom-right
-<img width="286" height="523" alt="Screenshot 2026-02-02 113202" src="https://github.com/user-attachments/assets/fbb92f17-a6c5-48ab-bb70-d9305604769f" />
-<img width="306" height="524" alt="Screenshot 2026-02-02 113153" src="https://github.com/user-attachments/assets/5811e6d5-6e6a-488f-a5de-ca5f103a7c43" />
-<img width="300" height="523" alt="Screenshot 2026-02-02 113306" src="https://github.com/user-attachments/assets/52166a7b-bfc0-45d2-a100-21eb8497a970" />
-<img width="288" height="516" alt="Screenshot 2026-02-02 113318" src="https://github.com/user-attachments/assets/34867898-3a85-47aa-b597-8cf446d1b5da" />
+<img width="352" height="651" alt="image" src="https://github.com/user-attachments/assets/c9749c3d-c6b3-4ff1-a687-6e0085917991" />
+<img width="344" height="650" alt="image" src="https://github.com/user-attachments/assets/1975e14f-1446-4a9e-a073-88bd0b8adcf1" />
+<img width="366" height="652" alt="image" src="https://github.com/user-attachments/assets/5b23f1b0-7260-4b2f-a8a6-113b48091e18" />
+<img width="349" height="651" alt="image" src="https://github.com/user-attachments/assets/80088a11-8cb7-4437-b49c-104c923329e9" />
+
 
 # HSV Image
-<img width="294" height="507" alt="Screenshot 2026-02-02 113444" src="https://github.com/user-attachments/assets/91d88550-955f-4690-bb32-d1b0dc4edb20" />
+<img width="343" height="653" alt="image" src="https://github.com/user-attachments/assets/e4800803-2eb9-4aee-a60e-f4a1790ea4e7" />
+
 
 # Grayscale Image
-<img width="286" height="507" alt="Screenshot 2026-02-02 113528" src="https://github.com/user-attachments/assets/482eeec0-9565-4dd8-aa8c-01066151b329" />
-
+<img width="359" height="646" alt="image" src="https://github.com/user-attachments/assets/48bba3e3-764d-41bc-b5e0-5bb98298458a" />
 
 # YCrCb Image
-<img width="279" height="503" alt="Screenshot 2026-02-02 113611" src="https://github.com/user-attachments/assets/4597dcf1-001a-4c40-bc67-c4af4fd6208a" />
-<img width="349" height="522" alt="Screenshot 2026-02-02 113620" src="https://github.com/user-attachments/assets/46bb2c3c-b3cb-4d42-a5b2-2fc75de827e0" />
-<img width="485" height="528" alt="Screenshot 2026-02-02 113637" src="https://github.com/user-attachments/assets/bdad719f-4973-4af2-908d-335d9edeb5f0" />
+<img width="343" height="659" alt="image" src="https://github.com/user-attachments/assets/aa871bae-e851-4661-983f-7f94cab664e2" />
+<img width="459" height="666" alt="image" src="https://github.com/user-attachments/assets/caa3df0f-2af5-4cb9-bf30-761892af8861" />
+<img width="621" height="670" alt="image" src="https://github.com/user-attachments/assets/0725319d-57f7-4554-bbac-d6448317cb35" />
+
 
 # Horizontal flip
-<img width="291" height="516" alt="Screenshot 2026-02-02 113643" src="https://github.com/user-attachments/assets/51df6ebb-38d4-4d40-96fb-ec24be08abda" />
+<img width="263" height="470" alt="image" src="https://github.com/user-attachments/assets/d12ad521-42ca-4bde-a2bf-0885b3bd3eb3" />
+
 
 # Vertical flip
-<img width="291" height="512" alt="Screenshot 2026-02-02 113659" src="https://github.com/user-attachments/assets/e1746405-2358-46e4-a6b0-90af22bbbf93" />
+<img width="261" height="477" alt="image" src="https://github.com/user-attachments/assets/f1d03f07-21f5-4581-a018-deb783bcc1d5" />
+
 
 ## Result:
 Thus, the images were read, displayed, adjustments were made, and bitwise operations were performed successfully using the Python program.
