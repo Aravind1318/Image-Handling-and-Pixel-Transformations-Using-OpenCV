@@ -1,6 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-- **Name:** Vinolia Alaina. R  
-- **Register Number:** 212224240184
+- **Name:** Aravind P
+- **Register Number:** 212224240015
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -33,8 +33,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** Vinolia Alaina. R  
-- **Register Number:** 212224240184
+- **Name:** Aravind P
+- **Register Number:** 212224240015
 
 ```PYTHON
 import cv2
@@ -273,31 +273,34 @@ plt.axis("off")
 
 
 # Draw a line from top-left to bottom-right
-<img width="352" height="651" alt="image" src="https://github.com/user-attachments/assets/c9749c3d-c6b3-4ff1-a687-6e0085917991" />
-<img width="344" height="650" alt="image" src="https://github.com/user-attachments/assets/1975e14f-1446-4a9e-a073-88bd0b8adcf1" />
-<img width="366" height="652" alt="image" src="https://github.com/user-attachments/assets/5b23f1b0-7260-4b2f-a8a6-113b48091e18" />
-<img width="349" height="651" alt="image" src="https://github.com/user-attachments/assets/80088a11-8cb7-4437-b49c-104c923329e9" />
+
+<img width="349" height="651" alt="image" src="https://github.com/user-attachments/assets/685c15e6-eab3-4f1b-965e-ce66e1ea67b5" />
+
 
 
 # HSV Image
-<img width="343" height="653" alt="image" src="https://github.com/user-attachments/assets/e4800803-2eb9-4aee-a60e-f4a1790ea4e7" />
+<img width="343" height="653" alt="image" src="https://github.com/user-attachments/assets/500fad8d-4bd4-48d2-8f10-a6bf3ec45f90" />
+
 
 
 # Grayscale Image
-<img width="359" height="646" alt="image" src="https://github.com/user-attachments/assets/48bba3e3-764d-41bc-b5e0-5bb98298458a" />
+<img width="359" height="646" alt="image" src="https://github.com/user-attachments/assets/580198d8-29fd-465e-ac3d-beebc8f5e8db" />
+
 
 # YCrCb Image
-<img width="343" height="659" alt="image" src="https://github.com/user-attachments/assets/aa871bae-e851-4661-983f-7f94cab664e2" />
-<img width="459" height="666" alt="image" src="https://github.com/user-attachments/assets/caa3df0f-2af5-4cb9-bf30-761892af8861" />
-<img width="621" height="670" alt="image" src="https://github.com/user-attachments/assets/0725319d-57f7-4554-bbac-d6448317cb35" />
+<img width="343" height="659" alt="image" src="https://github.com/user-attachments/assets/9f935692-dca3-4eca-a8f7-6eae447e101e" />
+<img width="459" height="666" alt="image" src="https://github.com/user-attachments/assets/9e131201-4c2d-4b3e-8f32-4b28a0db2e38" />
+<img width="621" height="670" alt="image" src="https://github.com/user-attachments/assets/2f36059b-da56-4b41-9845-3336adc96f34" />
 
 
 # Horizontal flip
-<img width="263" height="470" alt="image" src="https://github.com/user-attachments/assets/d12ad521-42ca-4bde-a2bf-0885b3bd3eb3" />
+<img width="263" height="470" alt="image" src="https://github.com/user-attachments/assets/4698e9fa-19cd-436a-9241-5caecd55876c" />
+
 
 
 # Vertical flip
-<img width="261" height="477" alt="image" src="https://github.com/user-attachments/assets/f1d03f07-21f5-4581-a018-deb783bcc1d5" />
+<img width="261" height="477" alt="image" src="https://github.com/user-attachments/assets/1fca34f0-6ca4-470c-ad2e-926c4abe7828" />
+
 
 
 ## Result:
