@@ -1,4 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+- **Name:** ARAVIND P
+- **Register Number:** 212224240015
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -31,8 +33,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** ARAVIND P
-- **Register Number:**  212224240015
+- **Name:** Vinolia Alaina. R  
+- **Register Number:** 212224240184
 
 ```PYTHON
 import cv2
@@ -40,7 +42,7 @@ import matplotlib.pyplot as plt
 ```
 ## Read the image using OpenCV 
 ```PYTHON
-img = cv2.imread('VIN.jpeg', cv2.IMREAD_COLOR)
+img = cv2.imread('dipt.jpeg', cv2.IMREAD_COLOR)
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)#
 ```PYTHON
@@ -55,7 +57,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg')
+image = cv2.imread('dipt.jpeg')
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -73,7 +75,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jepg') 
+image = cv2.imread('dipt.jepg') 
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -88,7 +90,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -106,7 +108,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 ```PYTHON
@@ -122,7 +124,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ```
 ## Original RGB Image
@@ -188,7 +190,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 image.shape
 (1536, 941, 3)
 ```
@@ -211,7 +213,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg') 
+image = cv2.imread('dipt.jpeg') 
 image.shape
 (1536, 941, 3)
 ```
@@ -232,7 +234,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('VIN.jpeg')
+image = cv2.imread('dipt.jpeg')
 ```
 ## Flip the image horizontally (left-right)
 ```PYTHON
@@ -267,46 +269,31 @@ plt.axis("off")
  
 # Output:
 # Display the image using Matplotlib
-<img width="382" height="706" alt="image" src="https://github.com/user-attachments/assets/fc40cb0a-6e64-4754-be23-6af84a8ab85f" />
+<img width="342" height="533" alt="Screenshot 2026-02-02 112957" src="https://github.com/user-attachments/assets/04ccb583-8ca9-4594-824d-368611385d60" />
 
-# Draw a line
-<img width="373" height="712" alt="image" src="https://github.com/user-attachments/assets/36ab056f-78e3-406e-9db6-5aea9dfbc074" />
-
-# Rectangle image 
-<img width="388" height="702" alt="image" src="https://github.com/user-attachments/assets/15e63377-90c8-401c-adb2-71c3b11e9eb1" />
-
-# Circle image
-<img width="366" height="716" alt="image" src="https://github.com/user-attachments/assets/a5b1b299-3eac-4888-b292-c7a77e858676" />
-
-# Image with text
-<img width="371" height="699" alt="image" src="https://github.com/user-attachments/assets/5b339d87-529f-4b68-9330-f6098d12d6e1" />
+# Draw a line from top-left to bottom-right
+<img width="286" height="523" alt="Screenshot 2026-02-02 113202" src="https://github.com/user-attachments/assets/fbb92f17-a6c5-48ab-bb70-d9305604769f" />
+<img width="306" height="524" alt="Screenshot 2026-02-02 113153" src="https://github.com/user-attachments/assets/5811e6d5-6e6a-488f-a5de-ca5f103a7c43" />
+<img width="300" height="523" alt="Screenshot 2026-02-02 113306" src="https://github.com/user-attachments/assets/52166a7b-bfc0-45d2-a100-21eb8497a970" />
+<img width="288" height="516" alt="Screenshot 2026-02-02 113318" src="https://github.com/user-attachments/assets/34867898-3a85-47aa-b597-8cf446d1b5da" />
 
 # HSV Image
-<img width="386" height="717" alt="image" src="https://github.com/user-attachments/assets/c93f014e-cb94-4f3d-8eef-2838d2ab5748" />
-
-# HSV TO RGB
-<img width="371" height="697" alt="image" src="https://github.com/user-attachments/assets/4526a706-68a9-46d5-96ea-b16a6c3045bc" />
-
-# Image with block
-<img width="480" height="729" alt="image" src="https://github.com/user-attachments/assets/a2e92d69-397b-4e38-acfe-91fb269e0ebc" />
-
-# Resized
-<img width="853" height="686" alt="image" src="https://github.com/user-attachments/assets/8d311089-0f19-40b1-86df-9d8499267269" />
-
-# Cropped image
-<img width="682" height="730" alt="image" src="https://github.com/user-attachments/assets/55c21077-963b-4c71-a31b-fd656fda2ad8" />
+<img width="294" height="507" alt="Screenshot 2026-02-02 113444" src="https://github.com/user-attachments/assets/91d88550-955f-4690-bb32-d1b0dc4edb20" />
 
 # Grayscale Image
-<img width="396" height="715" alt="image" src="https://github.com/user-attachments/assets/1fc89987-0a02-4bc3-9d44-198c0030e2b3" />
+<img width="286" height="507" alt="Screenshot 2026-02-02 113528" src="https://github.com/user-attachments/assets/482eeec0-9565-4dd8-aa8c-01066151b329" />
+
 
 # YCrCb Image
-<img width="370" height="705" alt="image" src="https://github.com/user-attachments/assets/d6375cce-c3be-4a01-8915-33f4cb58aeb7" />
+<img width="279" height="503" alt="Screenshot 2026-02-02 113611" src="https://github.com/user-attachments/assets/4597dcf1-001a-4c40-bc67-c4af4fd6208a" />
+<img width="349" height="522" alt="Screenshot 2026-02-02 113620" src="https://github.com/user-attachments/assets/46bb2c3c-b3cb-4d42-a5b2-2fc75de827e0" />
+<img width="485" height="528" alt="Screenshot 2026-02-02 113637" src="https://github.com/user-attachments/assets/bdad719f-4973-4af2-908d-335d9edeb5f0" />
 
 # Horizontal flip
-<img width="378" height="730" alt="image" src="https://github.com/user-attachments/assets/f0b448d2-0686-478e-947d-c09ee83f971a" />
+<img width="291" height="516" alt="Screenshot 2026-02-02 113643" src="https://github.com/user-attachments/assets/51df6ebb-38d4-4d40-96fb-ec24be08abda" />
 
 # Vertical flip
-<img width="381" height="724" alt="image" src="https://github.com/user-attachments/assets/4986eeec-0523-448f-a1ca-de4938b2cdf0" />
+<img width="291" height="512" alt="Screenshot 2026-02-02 113659" src="https://github.com/user-attachments/assets/e1746405-2358-46e4-a6b0-90af22bbbf93" />
 
 ## Result:
 Thus, the images were read, displayed, adjustments were made, and bitwise operations were performed successfully using the Python program.
