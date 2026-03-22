@@ -273,6 +273,9 @@ plt.axis("off")
 
 
 # Draw a line from top-left to bottom-right
+<img width="470" height="877" alt="image" src="https://github.com/user-attachments/assets/eafb89f0-ee7a-4208-aee0-e4febf7f1cc2" />
+<img width="415" height="784" alt="image" src="https://github.com/user-attachments/assets/d8d96124-6b03-41e4-b542-fa76f70c5712" />
+<img width="398" height="779" alt="image" src="https://github.com/user-attachments/assets/7770dfd6-934e-41fb-ac04-b6ddd6ec554a" />
 
 <img width="349" height="651" alt="image" src="https://github.com/user-attachments/assets/685c15e6-eab3-4f1b-965e-ce66e1ea67b5" />
 
